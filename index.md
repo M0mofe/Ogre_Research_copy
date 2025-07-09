@@ -1,7 +1,8 @@
+<div style="text-align: center;">
 ---
 title: Home
 ---
-Main page
+</div>
 
 ## My own website
 
