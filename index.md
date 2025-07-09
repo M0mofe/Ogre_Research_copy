@@ -4,7 +4,9 @@ title: Home
 ---
 </div>
 
-## My own website
+
+
+## Purpose
 
 Personal Website [Samuel Kroger](https://samuel-kroger.github.io/).
 
